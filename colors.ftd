@@ -1,4 +1,3 @@
-;; **** Change all colors given in below places and remove this line ****
 -- ftd.color base-:
 light: #faebd7
 dark: #240002
@@ -63,8 +62,8 @@ light: #611c03
 dark: #611c03
 
 -- ftd.color cta-primary-disabled-:
-light: #faad7b
-dark: #faad7b
+light: #a5300661
+dark: #a5300661
 
 -- ftd.color cta-primary-focused-:
 light: #611c03
@@ -78,13 +77,13 @@ dark: #a53006
 light: #feffff
 dark: #feffff
 
--- ftd.color cta-primary-text-disabled-:
-light: #65b693
-dark: #65b693
-
 -- ftd.color cta-primary-border-disabled-:
-light: #65b693
-dark: #65b693
+light: #a5300661
+dark: #a5300661
+
+-- ftd.color cta-primary-text-disabled-:
+light: #a5300652
+dark: #a5300652
 
 -- ftd.cta-colors cta-primary-:
 base: $cta-primary-base-
@@ -94,8 +93,8 @@ disabled: $cta-primary-disabled-
 focused: $cta-primary-focused-
 border: $cta-primary-border-
 text: $cta-primary-text-
-text-disabled: $cta-primary-text-disabled-
 border-disabled: $cta-primary-border-disabled-
+text-disabled: $cta-primary-text-disabled-
 
 -- ftd.color cta-secondary-base-:
 light: #EF8435
@@ -125,13 +124,14 @@ dark: #F3A063
 light: #FFFFFF
 dark: #FFFFFF
 
--- ftd.color cta-secondary-text-disabled-:
-light: #65b693
-dark: #65b693
 
 -- ftd.color cta-secondary-border-disabled-:
-light: #65b693
-dark: #65b693
+light: #a53006
+dark: #a53006
+
+-- ftd.color cta-secondary-text-disabled-:
+light: #feffff
+dark: #feffff
 
 -- ftd.cta-colors cta-secondary-:
 base: $cta-secondary-base-
@@ -141,8 +141,8 @@ disabled: $cta-secondary-disabled-
 focused: $cta-secondary-focused-
 border: $cta-secondary-border-
 text: $cta-secondary-text-
-text-disabled: $cta-secondary-text-disabled-
 border-disabled: $cta-secondary-border-disabled-
+text-disabled: $cta-secondary-text-disabled-
 
 -- ftd.color cta-tertiary-base-:
 light: #EBE8E5
@@ -172,13 +172,14 @@ dark: #B0AEAC
 light: #333333
 dark: #333333
 
--- ftd.color cta-tertiary-text-disabled-:
-light: #65b693
-dark: #65b693
 
 -- ftd.color cta-tertiary-border-disabled-:
-light: #65b693
-dark: #65b693
+light: #a53006
+dark: #a53006
+
+-- ftd.color cta-tertiary-text-disabled-:
+light: #feffff
+dark: #feffff
 
 -- ftd.cta-colors cta-tertiary-:
 base: $cta-tertiary-base-
@@ -188,8 +189,8 @@ disabled: $cta-tertiary-disabled-
 focused: $cta-tertiary-focused-
 border: $cta-tertiary-border-
 text: $cta-tertiary-text-
-text-disabled: $cta-tertiary-text-disabled-
 border-disabled: $cta-tertiary-border-disabled-
+text-disabled: $cta-tertiary-text-disabled-
 
 -- ftd.color cta-danger-base-:
 light: #f9e4e1
@@ -219,13 +220,14 @@ dark: #E9968C
 light: #FFFBFE
 dark: #1C1B1F
 
--- ftd.color cta-danger-text-disabled-:
-light: #65b693
-dark: #65b693
-
 -- ftd.color cta-danger-border-disabled-:
-light: #65b693
-dark: #65b693
+light: #a53006
+dark: #a53006
+
+-- ftd.color cta-danger-text-disabled-:
+light: #feffff
+dark: #feffff
+
 
 -- ftd.cta-colors cta-danger-:
 base: $cta-danger-base-
@@ -235,8 +237,8 @@ disabled: $cta-danger-disabled-
 focused: $cta-danger-focused-
 border: $cta-danger-border-
 text: $cta-danger-text-
-text-disabled: $cta-danger-text-disabled-
 border-disabled: $cta-danger-border-disabled-
+text-disabled: $cta-danger-text-disabled-
 
 -- ftd.color accent-primary-:
 light: #a53006
