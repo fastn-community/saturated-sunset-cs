@@ -21,7 +21,7 @@ name: default-colors
 -- cd.package: THEME
 name: `saturated-sunset-cs`
 logo: $assets.files.static.fastn-logo.svg
-subtitle: Adding warmth and energy to your designs with the `saturated-sunset-cs` Color Scheme
+subtitle: saturated-sunset-cs: color scheme
 colors: $colors-data
 types: $typo.types
 
