@@ -24,6 +24,9 @@ logo: $assets.files.static.fastn-logo.svg
 subtitle: saturated-sunset-cs: color scheme
 colors: $colors-data
 types: $typo.types
+document-title: Saturated Sunset CS: fastn color scheme package
+document-description: Saturated Sunset CS: fastn color scheme package
+document-image: https://fastn.com/-/fastn.com/images/featured/cs/saturated-sunset-cs-dark.png
 
 -- cp.components-pallete:
 
