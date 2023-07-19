@@ -24,8 +24,8 @@ logo: $assets.files.static.fastn-logo.svg
 subtitle: saturated-sunset-cs: color scheme
 colors: $colors-data
 types: $typo.types
-document-title: Saturated Sunset CS: fastn color scheme package
-document-description: Saturated Sunset CS: fastn color scheme package
+document-title: Root Beer Brown-themed Colour Scheme for Web Design | fastn Saturated Sunset CS
+document-description: Discover the Saturated Sunset Colour Scheme by fastn, featuring beautiful shades of root beer brown for both dark and light modes.
 document-image: https://fastn.com/-/fastn.com/images/featured/cs/saturated-sunset-cs-dark.png
 
 -- cp.components-pallete:
